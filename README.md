@@ -1,7 +1,11 @@
 ### Hi there 👋
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDae-hyun&show_icons=true&theme=radical)
- ## 🖥 Tech_stack 🖥
-<img src="https://img.shields.io/badge/-42seoul-222222?style=flat&logo=academy"/> <img src="https://img.shields.io/badge/-C language-3344ff?style=flat&logo=clang"/><img src="https://img.shields.io/badge/-slack-AA00AA?style=flat&logo=sns"/>
+![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDae-hyun&show_icons=true&theme=merko)
+
+
+ ## 🖥  Development Study  🖥
+<img src="https://img.shields.io/badge/-seoul-222222?style=flat&logo=42"/> <img src="https://img.shields.io/badge/-language-3344ff?style=flat&logo=c"/> <img src="https://img.shields.io/badge/-slack-AA00AA?style=flat&logo=slack"/>
+
+
 <!--
 **KimDae-hyun/KimDae-hyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
