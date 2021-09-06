@@ -1,5 +1,13 @@
 ### Hi there 👋
+
+🌱 I am a student studying development in 42Seoul 🌱
+
+[![daekim's 42 stats](https://badge42.herokuapp.com/api/stats/daekim?privacyEmail=true)](https://github.com/KimDae-hyun)
+
+
+
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDae-hyun&show_icons=true&theme=merko)
+
 
 
  ## 🖥  Development Study  🖥
