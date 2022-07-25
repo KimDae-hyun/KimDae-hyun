@@ -2,9 +2,9 @@
 
 🌱 I am a student studying development in 42Seoul 🌱
 
+[![daekim's 42 stats](https://badge42.vercel.app/api/v2/cl60lter0008709k1osn0d2ke/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDae-hyun&show_icons=true&theme=merko)
-
 
 
  ## 🛠 Development Study 
