@@ -6,6 +6,14 @@
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDae-hyun&show_icons=true&theme=merko)
 
+### 🧑🏻‍💻 My Experience
++ 42Seoul La Piscine (2020/10/12 ~ 2020/11/06)
++ 42Seoul Cadet (2020/12/21 ~ )
+
+### 📚 Project
++ [🏓42gg](https://github.com/42organization/42arcade.gg.client) ✨https://42gg.kr/  | ✨https://softwave.42gg.kr
+
+
 
  ## 🛠 Development Study 
 <img src="https://img.shields.io/badge/-seoul-222222?style=flat&logo=42"/> <img src="https://img.shields.io/badge/-language-3344ff?style=flat&logo=c"/> 
